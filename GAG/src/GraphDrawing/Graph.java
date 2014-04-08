@@ -8,10 +8,10 @@ public class Graph {
 	 *
 	 *	this class is the Graph API for GAG.
 	 *
-	 *		_1___2___3__
-	 *	1	|1	 1   1
-	 *	2	|1	 0   0
-	 *	3	|0	 1	 0
+	 *		_1	2	3__
+	 *	1	|1	1	1
+	 *	2	|1	0	0
+	 *	3	|0	1	0
 	 *
 	 *	the graph is represented in an array like this.
 	 *
