@@ -1,0 +1,17 @@
+graph {
+    fill-color: white;
+}
+node {
+    size: 50px, 50px;
+    shape: box;
+    fill-color: #AAAABB;
+    stroke-mode: plain;
+    stroke-color: yellow;
+}
+
+node#A {
+    fill-color: blue;
+}
+node#B {
+	fill-color: red;
+}
